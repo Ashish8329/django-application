@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "app",
-    "calender_app"
+    "calender_app",
+    "rest_framework"
 ]
 
 MIDDLEWARE = [
